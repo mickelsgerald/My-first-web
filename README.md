@@ -1,2 +1,2 @@
 # My-first-web
-My first webdite
+My first html and css website
